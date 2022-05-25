@@ -23,3 +23,11 @@ while True:
     elif numb % 2 != 0:
         print("this number is ODD")
 '''
+
+'''
+while True:
+  s = input()
+  if not s:
+    break
+  somelist.append(s)
+'''
